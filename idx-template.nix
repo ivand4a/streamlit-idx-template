@@ -1,13 +1,5 @@
 # No user-configurable parameters
 { pkgs, ... }: {
-  packages = [
-    # Enable "python", "pip" in the bootstrap script below.
-    # Note, this is NOT the list of packages available to the workspace once
-    # it's created. Those go in .idx/dev.nix
-    pkgs.python3
-  ];
-
-
   # Shell script that produces the final environment
   bootstrap = ''
     # Copy the folder containing the `idx-template` files to the final
