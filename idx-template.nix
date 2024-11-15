@@ -22,10 +22,5 @@
     # Remove the template files themselves and any connection to the template's
     # Git repository
     rm -rf "$out/.git" "$out/idx-template".{nix,json}
-
-    # python enviroment configuration
-    python -m venv "$out/.venv"
-    source "$out/.venv/bin/activate"
-    pip install -r "$out/requirements.txt"
   '';
 }
