@@ -29,7 +29,7 @@ streamlit run app.py
 
 ## 🌐 Acceso a la aplicación en IDX
 Puedes usar el siguiente enlace para acceder directamente a tu aplicación una vez desplegada:
-[Accede aquí](https://idx.google.com/new?template=https://github.com/ivand4a/template_IDX) <!-- Reemplaza # con el enlace proporcionado por IDX -->
+[Accede aquí](https://idx.google.com/new?template=https://github.com/ivand4a/streamlit-idx-template) <!-- Reemplaza # con el enlace proporcionado por IDX -->
 
 ## 📂 Estructura del proyecto
 ```bash
