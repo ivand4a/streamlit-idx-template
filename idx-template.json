@@ -1,0 +1,6 @@
+{
+  "name": "Streamlit templeate",
+  "description": "Public template for using the streamlit library from the IDX environment.",
+  "icon": "https://files.svgcdn.io/logos/streamlit.svg",
+  "params": []
+}
